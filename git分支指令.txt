@@ -7,3 +7,7 @@ git barnch -d 分支名  删除分支；
 切换分支
 
 git chekout 分支名；
+
+merge	分支合并；
+
+merge branch 把名为branch 的分支合并到当前分支上;
